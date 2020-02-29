@@ -1,6 +1,25 @@
 # Dapplaunch
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.22.
+Help users subscribe for updates/ offers by collecting their ethereum address via your site/ DApp. Send them HTML messages using Mailchain.
+
+TODOs
+
+- [ ] Add auth
+- [ ] Add api
+- [ ] Add schema (site, subscriber etc.)
+- [ ] Add views (dashboard, site [form, campaign, subscribers])
+- [ ] Integrate WYSIWYG HTML editor
+- [ ] Wire up form + lambda to recieve subscribers
+- [ ] Wire up send message to subscribers using <https://github.com/mailchain/mailchain>
+
+- [ ] PRFAQ Review
+- [ ] Medium Post: Getting started / Press Release
+
+Time Permitting:
+
+- [ ] DNS config
+- [ ] Add scheduling
+- [ ] Log in with Metamask (+ Cognito???)
 
 ## Development server
 
