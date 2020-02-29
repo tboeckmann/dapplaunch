@@ -4,10 +4,10 @@ Help users subscribe for updates/ offers by collecting their ethereum address vi
 
 TODOs
 
-- [ ] Add auth
+- [x] Add auth
 - [ ] Add api
 - [ ] Add schema (site, subscriber etc.)
-- [ ] Add views (dashboard, site [form, campaign, subscribers])
+- [x] Add views (dashboard, site [form, campaign, subscribers])
 - [ ] Integrate WYSIWYG HTML editor
 - [ ] Wire up form + lambda to recieve subscribers
 - [ ] Wire up send message to subscribers using <https://github.com/mailchain/mailchain>
