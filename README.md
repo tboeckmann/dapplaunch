@@ -19,7 +19,8 @@ Time Permitting:
 
 - [ ] DNS config
 - [ ] Add scheduling
-- [ ] Log in with Metamask (+ Cognito???)
+- [ ] Bulk sending messaging (gas station network??)
+- [ ] Log in with Torus/ Metamask (+ Cognito???)
 
 ## Development server
 
