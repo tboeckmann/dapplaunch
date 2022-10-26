@@ -1,7 +1,7 @@
 # Dapplaunch
 
 Help users subscribe for updates/ offers by collecting their ethereum address via your site/ DApp. Send them HTML messages using Mailchain.
-
+👋
 TODOs
 
 - [x] Add auth
